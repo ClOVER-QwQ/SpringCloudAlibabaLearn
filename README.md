@@ -1,2 +1,2 @@
-# SpringCloudAlibabLearn
-基于SpringCloudAlibabLearn和Rouyi开发学习
+# SpringCloudAlibabaLearn
+基于SpringCloudAlibabaLearn和Rouyi开发学习
